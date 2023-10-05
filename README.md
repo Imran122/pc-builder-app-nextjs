@@ -1,6 +1,6 @@
 ### PC BUILDER App
 
-- Frontend Live Link: https://pc-builder-next-app.vercel.app/
+- Frontend Live Link: https://pc-builder-app-nextjs.vercel.app/
 
 - Frontend Github Repository Link: https://github.com/Imran122/pc-builder-app-nextjs
 
